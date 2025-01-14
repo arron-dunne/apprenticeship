@@ -1,3 +1,4 @@
 [submodule "synoptic-project/quiz-manager"]
 	path = synoptic-project/quiz-manager
 	url = https://github.com/arron-dunne/quiz-manager
+	branch = main
